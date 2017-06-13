@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+googlecloudapi*
+git-bigstore*
+packages*
+
+.bigstore
