@@ -15,7 +15,8 @@ Usage
   - if you see some error (None, parameter number), see Patch
 
 Link
- - http://github.com/lionheart/git-bigstore 
+ - big-store github: http://github.com/lionheart/git-bigstore 
+ - big-store wiki: https://github.com/lionheart/git-bigstore/wiki
 
 Patch
 /Library/Python/2.7/site-packages/boto/s3/key.py
